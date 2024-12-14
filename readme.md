@@ -77,3 +77,4 @@ the slug would be TRUMP-WIN-2024-BET
 - Watch the console output for real-time information on market conditions, arbitrage opportunities, and executed trades.
 - The bot will log important events, including initialization status, balance updates, and trade executions.
 
+
