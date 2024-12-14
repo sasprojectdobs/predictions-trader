@@ -78,3 +78,4 @@ the slug would be TRUMP-WIN-2024-BET
 - The bot will log important events, including initialization status, balance updates, and trade executions.
 
 
+
